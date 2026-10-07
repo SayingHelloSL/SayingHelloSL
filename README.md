@@ -1,6 +1,6 @@
 <h1 align="left">Saying Hello 👋</h1>
 
-**Brand & product studio from Barcelona. We design it — and we build it.**
+**Brand & product studio from Barcelona. We design & build.**
 
 Strategy, brand identity and creative direction, shipped as real software:
 production web platforms, AI image pipelines and content-managed sites.
