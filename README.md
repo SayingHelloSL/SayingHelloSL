@@ -2,8 +2,12 @@
 
 **Brand & product studio from Barcelona. We design & build.**
 
-Strategy, brand identity and creative direction, shipped as real software:
-production web platforms, AI image pipelines and content-managed sites.
+Saying Hello is a partnership in strategy, brand and creative direction.
+Led by partners Miki Baizan and Hug Feijoo.
+We work alongside founders over the long term, taking part in the decisions that shape the business.
+Think of us as an extension of your company: the creative duo that brings a refined standard to everything your company puts into the world.
+Our work moves across physical and digital experiences, shaped by a close dialogue with contemporary art, culture, design and artificial intelligence.
+
 
 [sayinghello.es](https://sayinghello.es) · [hola@sayinghello.es](mailto:hola@sayinghello.es)
 
